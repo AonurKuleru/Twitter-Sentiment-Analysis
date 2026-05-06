@@ -31,7 +31,7 @@ Veri madenciliği süreçlerinde, ham verinin doğrudan modele verilmesi başar�
 
 ---
 
-## 💡 Sonuç ve Değerlendirme
+##  Sonuç ve Değerlendirme
 *   **Gözetim Kapitalizmi:** Bu sistemler, sosyal medyadaki "davranışsal artıklarımızı" işleyerek ruh halimizi tahmin eder. Şirketler bu sayede modumuza uygun manipülatif reklamlar sunabilmektedir.
 *   **Eksiklikler:** Başarının %100 olmamasının sebebi; makinenin insanların yaptığı şakaları, mecazları ve ironileri henüz tam olarak anlayamamasıdır. Bu, gözetim kapitalizminin hala aşamadığı o "insan ruhu" boşluğunu temsil eder.
 *   **Gelecek:** Bir sonraki aşamada **BERT** veya **Transformers** gibi derin öğrenme modelleri kullanılarak bağlamsal analiz geliştirilebilir.
